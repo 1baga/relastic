@@ -1,0 +1,8 @@
+{
+  "name": "relastic",
+  "version": "0.0.1",
+  "description": "A syncer between relational DB and Elasticsearch",
+  "main": "main.js",
+  "author": "Umar Mash",
+  "license": "MIT"
+}
